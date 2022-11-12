@@ -1,4 +1,4 @@
-package com.example.module1
+package com.example.module-1
 
 public class Main {
   public static void main(String[] args) {
