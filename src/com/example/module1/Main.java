@@ -8,4 +8,9 @@ public class Main {
   public static void print() {
     System.out.println("from module 1"); 
   }
+
+  public static void print1() {
+    System.out.println("from module 1 print 1"); 
+  }
+}
 }
